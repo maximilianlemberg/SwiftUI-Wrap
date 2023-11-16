@@ -29,7 +29,7 @@ dependencies: [
 - Create your SwiftUI view as usual.
 - Make sure it observes an ObservableObject for data updates.
 
-###ExampleSwiftUIView.swift
+### ExampleSwiftUIView.swift
 
 ```swift
 struct ExampleSwiftUIView: View {
@@ -50,11 +50,11 @@ struct ExampleSwiftUIView: View {
 
 ```
 
-###Wrapping SwiftUI View in UIKit
+### Wrapping SwiftUI View in UIKit
 
 Use `SwiftUIWrapperView` to integrate your SwiftUI view into a UIKit-based environment.
 
-###ExampleViewController.swift
+### ExampleViewController.swift
 
 ```swift
 import UIKit
