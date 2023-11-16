@@ -98,7 +98,7 @@ wrapper.secondaryAction = {
 Contributions are welcome! If you want to contribute to this project, please submit a pull request or open an issue for discussion.
 
 ## License 📄
-This project is licensed under the MIT License - see the [./License.txt](LICENSE) file for details.
+This project is licensed under the MIT License - see the [LICENSE](./License.txt) file for details.
 
 ## Acknowledgements 🙏
 Thanks to all the contributors and users of SwiftUI-Wrap for making this project possible!
