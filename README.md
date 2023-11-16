@@ -1,4 +1,4 @@
-# SwiftUI-Wrap 🚀
+# SwiftUI-Wrap 🌯
 
 Welcome to **SwiftUI-Wrap**, a Swift package designed to seamlessly integrate SwiftUI Views into UIKit-based projects. This package allows for the effortless creation of SwiftUI views within traditional UIKit view hierarchies, bringing the power of SwiftUI to more traditional iOS app architectures.
 
@@ -18,7 +18,7 @@ To use SwiftUI-Wrap with the Swift Package Manager, add it to the dependencies o
 
 ```swift
 dependencies: [
-    .package(url: "https://github.com/your-username/SwiftUI-Wrap.git", .upToNextMajor(from: "1.0.0"))
+    .package(url: "https://github.com/maximilianlemberg/SwiftUI-Wrap.git", .upToNextMajor(from: "1.0.0"))
 ]
 ```
 
