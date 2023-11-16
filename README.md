@@ -100,9 +100,6 @@ Contributions are welcome! If you want to contribute to this project, please sub
 ## License 📄
 This project is licensed under the MIT License - see the [LICENSE](./License.txt) file for details.
 
-## Acknowledgements 🙏
-Thanks to all the contributors and users of SwiftUI-Wrap for making this project possible!
-
 ---
 
 Happy Coding! 🎉
